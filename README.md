@@ -6,10 +6,6 @@
 
 This is the backend for **Bookland**, a bookstore management system. The backend is built using **Go** with the **Gorm** ORM for database handling and **Gorilla Mux** for routing.
 
-## Architecture
-
-![Architecture Diagram](https://via.placeholder.com/800x400.png?text=Architecture+Diagram)
-
 The **Bookland-Backend** uses a RESTful API structure, connecting a MySQL database with the frontend via the following components:
 - **Go** for API logic.
 - **Gorilla Mux** for routing.
