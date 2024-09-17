@@ -1,5 +1,3 @@
-Here’s a corrected version of your **README.md** file, addressing any issues and ensuring that the image URLs are properly linked:
-
 ---
 
 # Bookland-Backend
